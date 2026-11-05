@@ -1,3 +1,8 @@
+/*
+ * Name: Naledi Ngobeni
+ * Student Number: 230742912
+ */
+
 import 'dotenv/config';
 import 'reflect-metadata';
 import { ValidationPipe } from '@nestjs/common';
