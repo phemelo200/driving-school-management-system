@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 /*
  * Name: Naledi Ngobeni
  * Student Number: 230742912
  */
 
+=======
+>>>>>>> b7afd27e907303988a0f8e67f9d09a0ee9a763ed
 import { IsEmail, IsIn, IsString, MinLength } from 'class-validator';
 
 export class RegisterDto {
