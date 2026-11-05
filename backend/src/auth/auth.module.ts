@@ -1,3 +1,6 @@
+// Naledi Ngobeni
+// Student Number: 230742912
+
 import { Module } from '@nestjs/common';
 import { AuthController } from './auth.controller';
 import { AuthGuard } from './auth.guard';
